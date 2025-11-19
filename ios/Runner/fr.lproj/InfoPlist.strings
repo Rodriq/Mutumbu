@@ -1,0 +1,2 @@
+NSMicrophoneUsageDescription = "Autoriser l'accès au microphone";
+NSPhotoLibraryUsageDescription = "Besoin d'accéder à la bibliothèque";
